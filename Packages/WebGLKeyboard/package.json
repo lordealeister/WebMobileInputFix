@@ -1,5 +1,5 @@
 {
-  "name": "com.ulidantas.webgl-keyboard",
+  "name": "games.versionzero.webgl-keyboard",
   "displayName": "WebGL Keyboard",
   "version": "0.0.1",
   "unity": "2019.4",
@@ -8,7 +8,7 @@
     "webgl"
   ],
   "author": {
-    "name": "dantasulisses",
-    "url": "https://github.com/dantasulisses/WebMobileInputFix"
+    "name": "Lorde Aleister",
+    "url": "https://github.com/lordealeister"
   }
 }
